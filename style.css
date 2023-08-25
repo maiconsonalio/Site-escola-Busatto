@@ -42,3 +42,15 @@ width: 10%;
     body{
         font-family: 'Poppins', sans-serif;
     }
+
+    .estudante-imagem{
+        width: 250px;
+    }
+
+    .estudante-icone{
+        width: 48px;
+    }
+
+    .estudante-div{
+        t: center;
+    }
